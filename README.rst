@@ -1,3 +1,3 @@
 ---------
-myexample
+My Example
 ---------
